@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am back from a 3 month meditation retreat, currently catching up on everything AI related. 
-That means, I am learning to build stuff myself. 
-I am enjoying building independently, but also sensing the limitations. 
+I am back from a 3 month meditation retreat, currently catching up on everything AI. Well, not everything of course, just things that interest me, like how to use it to become a better PM, what else i can do with the magic tool and of course build build build as a way of learning and for fun. 
 Here you can find a few of the things I've build (feel free to check, share and comment). 
-My next big thing will be my personal website. I am not suffering the pains of writing about myself. 
+The more interesting things, honestly, are private: a trading tool, and private wiki. 
+My next big thing, that's also public, will be my personal website. 
+I am now suffering the pain of writing about myself. 
 
 See you!
 
