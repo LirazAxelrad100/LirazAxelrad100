@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 I am back from a 3 month meditation retreat, currently catching up on everything AI related. 
-That means, i am learning to build stuff myself. 
+That means, I am learning to build stuff myself. 
 I am enjoying building independently, but also sensing the limitations. 
-Here you can find a few of the things i've build (feel free to check, share and comment). 
+Here you can find a few of the things I've build (feel free to check, share and comment). 
 My next big thing will be my personal website. I am not suffering the pains of writing about myself. 
 
 See you!
