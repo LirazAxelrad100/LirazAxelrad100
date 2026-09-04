@@ -1,12 +1,25 @@
 ## Hi there 👋
 
-I am back from a 3 month meditation retreat, currently catching up on everything AI. Well, not everything of course, just things that interest me, like how to use it to become a better PM, what else i can do with the magic tool and of course build build build as a way of learning and for fun. 
-Here you can find a few of the things I've build (feel free to check, share and comment). 
-The more interesting things, honestly, are private: a trading tool, and private wiki. 
-My next big thing, that's also public, will be my personal website. 
-I am now suffering the pain of writing about myself. 
+I am a Senior Product Manager, currently not working. Instead I am exploring, what do I want to do next? While contemplating the big questions of life I am building small utilities that improve my life and release me from using paid tools. 
 
-See you!
+Things I've built so far: 
+
+**Chrome extenstions**
+- TL'DR that summerise long articles
+- Spellchecker and punctuation fixer
+- AI based word definition tools
+- Web Clipper
+
+**Other stuff**
+- My personal [homepage](https://lirazaxelrad.com/en)
+- A diary (finally! replace OneNote)
+- A personal expense tracker
+- A google doc spell checker
+- A trading tool, managing stoploss, helping me make better decisions (private)
+- My personal knowledge wiki [based on Andrej Karpathy’s schema](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) helps me
+
+Feel free to check, fork and comment on everything that is public. I will update this as I keep building. My secret goal is pay only for coding tools that help me no pay for any other software.
+Oh, and if you like and have work suggestions for me, I am looking for a interesting and challenging PM position (AI, sure, but as a PM, i do believe it's not the tool that matter, but the thinking. I am a very good thinker). 
 
 About me, that is, about my career: https://www.linkedin.com/in/lirazaxelrad/
 
