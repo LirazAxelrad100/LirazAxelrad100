@@ -12,10 +12,10 @@ Things I've built so far:
 
 **Other stuff**
 - My personal [homepage](https://lirazaxelrad.com/en)
-- A diary (finally! replace OneNote)
-- A personal expense tracker
-- A google doc spell checker
-- A trading tool, managing stoploss, helping me make better decisions (private)
+- Diary (finally! replace OneNote)
+- Personal expense tracker
+- Google doc spell checker
+- Trading tool, trailing stop, all investments in one place, helping me make better decisions (private)
 - My personal knowledge wiki [based on Andrej Karpathy’s schema](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) helps me shape ideas and write them down (btw, the clipper is design to work with this wiki project, so after learning my knowledge tree it clips and file in the right folder). 
 
 Feel free to check, fork and comment on everything that is public. I will update this as I keep building. My secret goal is pay only for coding tools that help me no pay for any other software.
